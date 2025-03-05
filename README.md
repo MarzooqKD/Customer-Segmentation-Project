@@ -41,5 +41,5 @@ The dataset should contain relevant customer information such as:
 - Enhancing data visualization for better interpretability.
 
 ## Author
-This project was developed as part of a data science study.
+This project was developed by Marzooq Habib Mohamadu as part of a personal study on customer segmentation.
 
