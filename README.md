@@ -34,7 +34,6 @@ The dataset should contain relevant customer information such as:
 ## Results & Insights
 - Identifies key customer segments for targeted marketing strategies.
 - Provides a data-driven approach to customer recommendations.
-- ![IMG_28902D41BF87-1](https://github.com/user-attachments/assets/6226701d-2da2-44e9-a202-405c998f64c1)
 
 
 ## Future Enhancements
